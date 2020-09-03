@@ -2,3 +2,6 @@
 .sub-title{ margin: 35px 0 20px 0; }
 .plant-title{ margin: 10px 0; }
 .plant-padding{ padding-top: 6rem; }
+.read-me{  cursor: pointer;text-align: right; }
+.plant-hide { display: none; }
+.plant-margin{ margin-bottom: 5rem; }
